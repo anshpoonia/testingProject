@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let playerNumber = null
     let currentTurn = 'x'
 
-    let ws = new WebSocket('ws://192.168.0.106:8080')
+    let ws = new WebSocket('ws://103.212.131.10:8080')
     ws.onopen = () => {
         console.log("Connected to WebSocket...")
     }
