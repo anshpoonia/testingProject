@@ -1,0 +1,20 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Tic Tac Toe Board">
+<g id="Side">
+<rect id="Rectangle 1" x="15" y="160" width="450" height="10" rx="5" fill="#F7F7F7"/>
+<rect id="Rectangle 2" x="15" y="310" width="450" height="10" rx="5" fill="#F7F7F7"/>
+<rect id="Rectangle 3" x="170" y="15" width="450" height="10" rx="5" transform="rotate(90 170 15)" fill="#F7F7F7"/>
+<rect id="Rectangle 4" x="320" y="15" width="450" height="10" rx="5" transform="rotate(90 320 15)" fill="#F7F7F7"/>
+</g>
+<g id="winLines">
+<rect id="winOne" x="95" y="30" width="420" height="10" rx="5" transform="rotate(90 95 30)" fill="#F7F7F7"/>
+<rect id="winTwo" x="245" y="30" width="420" height="10" rx="5" transform="rotate(90 245 30)" fill="#F7F7F7"/>
+<rect id="winFive" x="30" y="235" width="420" height="10" rx="5" fill="#F7F7F7"/>
+<rect id="winSix" x="30" y="385" width="420" height="10" rx="5" fill="#F7F7F7"/>
+<rect id="winFour" x="30" y="84.9999" width="420" height="10" rx="5" fill="#F7F7F7"/>
+<rect id="winThree" x="395" y="30" width="420" height="10" rx="5" transform="rotate(90 395 30)" fill="#F7F7F7"/>
+<rect id="winEight" x="35.0794" y="28" width="589.746" height="10" rx="5" transform="rotate(45 35.0794 28)" fill="#F7F7F7"/>
+<rect id="winSeven" x="28.0083" y="445.013" width="589.746" height="10" rx="5" transform="rotate(-45 28.0083 445.013)" fill="#F7F7F7"/>
+</g>
+</g>
+</svg>
